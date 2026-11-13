@@ -3,6 +3,7 @@
 Final-Year Industrial Information Technology Undergraduate | Aspiring Data Analyst
 
 🎓 Uva Wellassa University, Sri Lanka
+
 📊 Interested in Data Analytics, Business Intelligence, and Data Visualization.
 
  Currently Learning
